@@ -1,5 +1,4 @@
-This is the fourth edit to the file
-This is supposed to be a large edit with a lot
-of filler text that takes up a lot of space. The purpose
-of this is to see how the editor reacts to many multiline changes
-I hope it goes well...
+This content was added in the branch
+which was called newbranch. This is filler
+text who's only purpose is to take up space in
+the cmd editor later on.
