@@ -1,5 +1,3 @@
-This is the fourth edit to the file
-This is supposed to be a large edit with a lot
-of filler text that takes up a lot of space. The purpose
-of this is to see how the editor reacts to many multiline changes
-I hope it goes well...
+This text is supposed to conflict
+with the text that has been recorded
+in the 5th edit on the master branch
