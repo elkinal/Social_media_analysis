@@ -1,4 +1,5 @@
-This content was added in the branch
-which was called newbranch. This is filler
-text who's only purpose is to take up space in
-the cmd editor later on.
+<<<<<<< HEAD
+The same text
+=======
+The same text
+>>>>>>> newbranch
