@@ -114,7 +114,7 @@ def draw_graph(g):
                         cmap=plt.cm.RdYlBu,
                         alpha=0.9)
     nx.draw_networkx_edges(g, pos, alpha=0.3)
-    nx.draw_networkx_labels(g, pos)
+   #nx.draw_networkx_labels(g, pos)
     plt.show()
 
 def draw_partition(g, partition):
